@@ -1,4 +1,4 @@
- ![Demo](img/My Neighbor Pokemon GIF.gif)
+ ![Demo](img/My-Neighbor-PokemonGIF.gif.gif)
 
 <h1 style="font-size: 48px;">Hi There👋</h1>
 
