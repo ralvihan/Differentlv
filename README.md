@@ -1,6 +1,6 @@
 <h1 style="font-size: 48px;">Hi There👋</h1>
 
-**I'm Raihan Alvian** - I'm a Front-End Developer
+**I'm Raihan Alvian** - I'm a Full-Stack Developer
 
 <!-- ![Differentlv](img/bg-none.png) -->
 
