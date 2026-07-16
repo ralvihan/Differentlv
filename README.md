@@ -7,7 +7,7 @@
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,java,python,cpp,php,react,tailwindcss,laravel,mysql,godot,cs,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,cpp,php,react,tailwindcss,laravel,mysql,godot,cs,figma,vscode)](https://skillicons.dev)
 
 #### OS
 
